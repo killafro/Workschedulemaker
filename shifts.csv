@@ -1,0 +1,7 @@
+shift,start,end,days
+morning, 07:30,15:00, 12345
+evening, 12:00,20:00, 12345
+short night, 19:00,09:00, 123
+long night, 17:00,09:00, 45
+weekend night, 18:00,9:00, 67
+weekend day, 9:00,18:15, 67
